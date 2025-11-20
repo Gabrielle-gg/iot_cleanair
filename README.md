@@ -109,12 +109,10 @@ cleanair/alertas
 
 ## 6. Comunicação via Internet
 
-O projeto cumpre o requisito de IoT utilizando:
-
-✔ Conexão via rede **Wi-Fi (TCP/IP)**  
-✔ Envio de dados usando **MQTT**  
-✔ Comunicação com um **broker online**  
-✔ Possibilidade de monitoramento remoto de qualquer lugar do mundo  
+- Conexão via rede **Wi-Fi (TCP/IP)**  
+- Envio de dados usando **MQTT**  
+- Comunicação com um **broker online**  
+- Possibilidade de monitoramento remoto de qualquer lugar do mundo  
 
 ---
 
