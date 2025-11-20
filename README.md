@@ -5,6 +5,9 @@
 O **Clean Air IoT** é um sistema de monitoramento da qualidade do ar baseado em sensores conectados à internet utilizando MQTT e Wi-Fi (TCP/IP).  
 O projeto permite medir temperatura, umidade e qualidade do ar, enviando os dados em tempo real para um broker MQTT acessível pela internet.
 
+O projeto Clean Air, foi desenvolvido como parte da disciplina Objetos Inteligentes Conectados da Faculdade de Computação e Informática da Universidade Presbiteriana Mackenzie.
+Autores: Aldezon Henrique Salvador Santos, Caio Fernandes, Gabrielle Gonçalves Guimarães.
+
 🔗 **Simulação no Wokwi:**  
 https://wokwi.com/projects/446015436066367489  
 
